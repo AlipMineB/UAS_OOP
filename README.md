@@ -1,6 +1,6 @@
 # UAS_OOP
 # Nama Project : Coffe Shop
-# Link youtube :
+# Link youtube : https://youtu.be/cviKNS936s8?si=memQWDzRp6tPnp6D
 # Nama Anggota :
 1. Dean Pratama Saputra (312210114)
 2. M. Wahyudin Ardiansyah (312210148)
